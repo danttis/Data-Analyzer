@@ -1,6 +1,6 @@
 # Dashboard para análise
 
-Este projeto foi desenvolvido principalmente utilizando as seguintes bibliotecas em Python: Streamlit, Pandas, sklearn, plotly, numpy e statsmodels. Ele possui uma interface simples que permite a interação com o arquivo dataset.csv do usuário. No projeto, é possível analisar dados de três tipos:
+Este projeto foi desenvolvido principalmente utilizando as seguintes bibliotecas em Python: Streamlit, Pandas, Scikit-Learn, Plotly, Numpy e Statsmodels. Ele possui uma interface simples que permite a interação com o arquivo dataset.csv do usuário. No projeto, é possível analisar dados de três tipos:
 
 ## Séries Temporais
 
